@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="lblFname">First Name</string>
+    <string name="lblUserName">User Name</string>
+    <string name="lblPass">Password</string>
+    <string name="lblMname">Middle Name</string>
+    <string name="lblLname">Last Name</string>
+    <string name="lblAddress">Address</string>
+    <string name="lblContNum">Contact No</string>
+    <string name="lblEmail">Email Address</string>
+    <string name="lblSex">Sex</string>
+    <string-array name="OptGender">
+        <item value="0">MALE</item>
+        <item value="1">FEMALE</item>
+    </string-array>
+</resources>
